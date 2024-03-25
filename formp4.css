@@ -1,0 +1,33 @@
+.paragraph-box{
+		width: 500px;
+  padding: 5px;
+  margin: 10px;
+  background:rgba(255,255,255,.4);
+  bottom:10000px;
+	}
+		body {
+			background: black;
+            background-image: url(bkg.webp);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:1600px 1000px ; 
+            background-position: center;
+        }
+    	p { ;
+    		font-size:30px;
+    		font-family: Bookman Old Style;
+    	}
+
+    	video{
+    		width: 900px;
+    		height: 600px;
+		position: center;
+    	  
+    	  
+
+    	}
+
+   
+
+
+
